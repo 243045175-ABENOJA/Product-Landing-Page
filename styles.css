@@ -31,7 +31,7 @@ header {
 }
 
 .search_bar input {
-    width: 100%;
+    width: 800px;
     padding: 10px;
     border: none;
     border-radius: 20px 0 0 20px;
@@ -132,4 +132,5 @@ footer p {
     text-align: right;
     margin-left: auto;
     font-size: small;
+
 }
